@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Terminal
+description: "A Simple Terminal Theme for Jekyll Inspired by https://kuberwastaken.github.io/"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
